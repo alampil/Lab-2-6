@@ -1,0 +1,9 @@
+/interfaces/
+/main/
+/methods/
+/methodsJson/
+/methodsXml/
+/models/
+/parsers/
+/providersSql/
+/tests/
